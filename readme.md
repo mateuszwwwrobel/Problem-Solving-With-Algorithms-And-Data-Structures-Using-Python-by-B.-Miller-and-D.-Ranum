@@ -1,3 +1,3 @@
 Problem Solving with Algorithms and Data Structures - Python 3 by Brad Miller, David Ranum
 
-Aim is to learn python3
+Repo created to record progress ad keep all the files in one place.
